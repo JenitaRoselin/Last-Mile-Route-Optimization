@@ -1,0 +1,10 @@
+# Ignore dependencies for all subprojects
+**/node_modules/
+
+# Ignore environment files (protect your DB passwords)
+**/.env
+
+# App specific ignores
+**/dist/
+**/.expo/
+**/.next/
